@@ -72,7 +72,7 @@ Couple on a single trip (UK) , select quote 3 and fill in applicant / second tra
 		When User  select "third" quote
 		Then Proceed to fill in Applicant's detail
 		
-		When User add NRIC "S8012411B"
+		When User add NRIC "S0012345B"
 		    And User add name "JAMES BROOKE"
 		    And User add DOB "01/10/1990"
 		    And User add nationality "United Kingdom"
